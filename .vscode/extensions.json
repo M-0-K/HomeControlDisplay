@@ -1,5 +1,7 @@
 {
+
     "recommendations": [
+        "platformio.platformio-ide"
         "ms-vscode.cpptools-extension-pack",
         "eamodio.gitlens",
         "mhutchie.git-graph",
